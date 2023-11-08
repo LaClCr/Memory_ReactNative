@@ -14,7 +14,7 @@ const App = () => {
   return (
     <View>
       <StatusBar/>
-      <Text style={styles.sectionTitle}>Welcome to helll</Text>
+      <Text style={styles.sectionTitle}>Welcome to hell</Text>
     </View>
   );
 }
